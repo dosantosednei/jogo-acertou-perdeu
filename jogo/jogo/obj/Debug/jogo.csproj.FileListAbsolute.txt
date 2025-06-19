@@ -1,0 +1,8 @@
+C:\Users\aluno\source\repos\jogo\jogo\obj\Debug\jogo.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\jogo\jogo\obj\Debug\jogo.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\jogo\jogo\obj\Debug\jogo.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\jogo\jogo\bin\Debug\jogo.exe.config
+C:\Users\aluno\source\repos\jogo\jogo\bin\Debug\jogo.exe
+C:\Users\aluno\source\repos\jogo\jogo\bin\Debug\jogo.pdb
+C:\Users\aluno\source\repos\jogo\jogo\obj\Debug\jogo.exe
+C:\Users\aluno\source\repos\jogo\jogo\obj\Debug\jogo.pdb
